@@ -1,2 +1,4 @@
 neuralAPI/neuralAPI/settings.py
 neuralAPI/neuralAPI/__pycache__/
+neuralAPI/polls/__pycache__/
+neuralAPI/polls/migrations/
